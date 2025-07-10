@@ -2,19 +2,19 @@
 
 A group chat bot to streamline food ordering using AI and Telegram.
 
-## 🚧 Features in Progress (P0/MVP)
-
-- [ ] 🤖 **LLM Parsing** — Understands and interprets text messages using a large language model  
-- [ ] 📲 **Telegram Integration** — Receives and processes group chat messages via Telegram  
-- [ ] 🍱 **Food Delivery Integration** — Connects to food delivery platforms to place orders
-
 ## 📌 Goal
 
 Create a seamless experience for coordinating and placing group food orders—no more chaos in the living room.
 
+## 🚧 Features in Progress (P0)
+
+- [ ] 🤖 **LLM Parsing** — Understands and interprets text messages using a large language model  
+- [X] 📲 **Telegram Integration** — Receives and processes group chat messages via Telegram  
+- [ ] 🍱 **Food Delivery Integration** — Connects to food delivery platforms to place orders
+
 ---
 
-## 🌟 Upcoming Enhancements (P1/Stretch Goals)
+## 🌟 Upcoming Enhancements (P1)
 
 ### 📝 Flexible Order Management
 - **Edit/Delete Items** — Allow users to revise or remove their own items
