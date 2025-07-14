@@ -59,7 +59,7 @@ class FoodOrderAgent:
 # -------------------- LLM Parsing --------------------
 def parse_message_with_llm(message: str) -> dict:
     system_prompt = (
-        "You are a food-ordering assistant in a Telegram group chat. "
+        "You are a food-ordering assistant in a group chat. "
         "Your job is to extract a user's intent and a clean list of food items, formatted for clarity.\n\n"
         "For each item, include quantity (if mentioned), size/modifiers (e.g., 'no onions', 'extra cheese'), and name.\n\n"
         "Your JSON output should have:\n"
