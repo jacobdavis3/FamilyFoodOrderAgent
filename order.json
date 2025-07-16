@@ -1,0 +1,34 @@
+{
+  "order": [
+    {
+      "id": 24,
+      "name": "Brisket Tacos",
+      "price": 16.5,
+      "quantity": 1
+    },
+    {
+      "id": 26,
+      "name": "Short Ribs Tacos",
+      "price": 16.5,
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "name": "Cauliflower Wings",
+      "price": 16.95,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "Grilled Chicken Panini",
+      "price": 28.95,
+      "quantity": 1
+    }
+  ],
+  "delivery_info": {
+    "name": "John Doe",
+    "address": "123",
+    "phone": "1223"
+  },
+  "total": 78.9
+}
